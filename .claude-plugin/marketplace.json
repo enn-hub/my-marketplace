@@ -1,0 +1,10 @@
+{
+  "name": "my-team-marketplace",
+  "displayName": "我的团队插件市场",
+  "version": "1.0.0",
+  "owner": {
+    "name": "zhangkaili"
+  },
+  "plugins": [],
+  "categories": ["team", "productivity"]
+}
