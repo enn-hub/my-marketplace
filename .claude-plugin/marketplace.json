@@ -5,6 +5,12 @@
   "owner": {
     "name": "zhangkaili"
   },
-  "plugins": [],
+  "plugins": [
+    {
+      "name": "my-first-plugin",
+      "version": "1.0.0",
+      "path": "plugins/my-first-plugin"
+    }
+  ],
   "categories": ["team", "productivity"]
 }
