@@ -2,15 +2,9 @@
   "name": "my-team-marketplace",
   "displayName": "我的团队插件市场",
   "version": "1.0.0",
-  "author": {
+  "owner": {
     "name": "zhangkaili"
   },
-  "plugins": [
-    {
-      "name": "my-first-plugin",
-      "version": "1.0.0",
-      "path": "plugins/my-first-plugin"
-    }
-  ],
+  "plugins": [],
   "categories": ["team", "productivity"]
 }
