@@ -1,13 +1,6 @@
 {
   "name": "my-first-plugin",
   "displayName": "我的第一个插件",
-  "description": "示例插件，包含一个 Skill",
-  "version": "1.0.0",
-  "owner": {
-    "name": "zhangkaili"
-  },
-  "skills": ["skills/my-skill/SKILL.md"],
-  "commands": [],
-  "agents": [],
-  "hooks": []
+  "description": "示例插件",
+  "version": "1.0.0"
 }
