@@ -1,0 +1,8 @@
+{
+  "name": "UI-skill",
+  "description": "UI框架生成",
+  "version": "1.0.0",
+  "scripts": {
+    "generator": "scripts/generator.py"
+  }
+}
