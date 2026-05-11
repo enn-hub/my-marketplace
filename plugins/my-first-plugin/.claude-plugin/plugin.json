@@ -2,12 +2,5 @@
   "name": "my-first-plugin",
   "displayName": "我的第一个插件",
   "description": "UI框架生成插件 - 一键生成 Python + Playwright + PO 框架",
-  "version": "1.0.0",
-  "scripts": [
-    {
-      "name": "generate-framework",
-      "path": "./scripts/generate_framework.py",
-      "description": "生成 Python Playwright PO 框架代码"
-    }
-  ]
+  "version": "1.0.0"
 }
