@@ -5,6 +5,12 @@
   "owner": {
     "name": "zhangkaili"
   },
-  "plugins": [],
+  "plugins": [
+    {
+      "name": "my-first-plugin",
+      "source": "./plugins/my-first-plugin",
+      "description": "UI框架生成"
+    }
+  ],
   "categories": ["team", "productivity"]
 }
